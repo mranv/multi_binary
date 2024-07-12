@@ -1,8 +1,9 @@
-# README
-
-Welcome to the `multi_binary` project!
-
-## Description
+<h1 align="center">
+<br>
+<img src=assets/terrified-of-ice-cream-ferrisrust-frame.gif>
+<br>
+<strong>multi_binary: Welcome to the `multi_binary` project!</strong>
+</h1>
 
 This project aims to demonstrate the usage of multiple binary files in a single repository. This repo aims to be the testing repo of the multi level binary creation at once using cargo in rust.
 
