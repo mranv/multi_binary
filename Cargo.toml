@@ -1,0 +1,22 @@
+[package]
+name = "multi_binary"
+version = "0.1.0"
+edition = "2021"
+
+# Define the default binary
+[[bin]]
+name = "multi_binary"
+path = "src/main.rs"
+
+# Define the first additional binary
+[[bin]]
+name = "binary1"
+path = "src/bin/binary1.rs"
+
+# Define the second additional binary
+[[bin]]
+name = "binary2"
+path = "src/bin/binary2.rs"
+
+
+[dependencies]
